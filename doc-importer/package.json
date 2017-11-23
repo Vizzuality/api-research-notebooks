@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
-    "amqplib": "^0.5.2"
+    "amqplib": "^0.5.2",
+    "doc-importer-messages": "git+http://github.com/resource-watch/doc-importer-messages.git#master"
   },
   "devDependencies": {},
   "scripts": {
